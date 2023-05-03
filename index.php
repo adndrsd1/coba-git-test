@@ -9,5 +9,8 @@
 <body>
     <h1>Hello World!</h1>
     <p>Selamat Pagi</p>
+    <ul>
+        <li>one</li>
+        <li>two</li>
 </body>
 </html>
